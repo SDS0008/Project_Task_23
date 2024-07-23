@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.not-found-img {
+    width: 250px;
+}
+
+.not-found-heading {
+    font-size: 50px;
+    font-weight: 500;
+    color: goldenrod;
+}

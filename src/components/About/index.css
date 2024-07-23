@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.about-img {
+    width: 150px;
+}
+
+.about-heading {
+    font-size: 45px;
+    color: red;
+    font-weight: 500;
+
+}
+
+.about-paragraph {
+    font-size: 20px;
+    text-align: center;
+    color: grey;
+}

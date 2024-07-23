@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.home-img {
+    width: 150px;
+}
+
+.home-heading {
+
+    font-size: 48px;
+    font-weight: 400;
+    color: rgb(109, 72, 72);
+}
